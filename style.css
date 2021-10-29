@@ -1,0 +1,17 @@
+.main_div{
+    background-image: url("https://media.istockphoto.com/vectors/abstract-pastel-rainbow-gradient-background-ecology-concept-for-your-vector-id1248151713?k=20&m=1248151713&s=170667a&w=0&h=0o2gG257P-gj4n1_NScqwl2Tn7a8nTxasOWhDwuteCM=");
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header_div{
+    background-color: white;
+    color: rgb(182, 21, 128);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.copy_right_footer{
+    text-shadow: -1px 3px 6px rgb(100, 100, 100);
+    font-family: monospace;
+}
+button{
+    margin-top: 20px;
+}
